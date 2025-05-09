@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Breaking: Major Tech Innovation",
+        "author": "Sarah Johnson",
+        "date": "2024-03-20",
+        "summary": "Revolutionary new technology promises to transform the industry...",
+        "image": "https://placehold.co/600x400"
+    },
+    {
+        "title": "Global Climate Summit Update",
+        "author": "Michael Chen",
+        "date": "2024-03-19",
+        "summary": "World leaders reach historic agreement on emissions...",
+        "image": "https://placehold.co/600x400"
+    },
+    {
+        "title": "New Economic Policy Announced",
+        "author": "Emma Wilson",
+        "date": "2024-03-18",
+        "summary": "Government unveils comprehensive economic reform package...",
+        "image": "https://placehold.co/600x400"
+    }
+]
